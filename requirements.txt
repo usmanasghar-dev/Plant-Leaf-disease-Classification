@@ -1,6 +1,5 @@
+
 tensorflow
 numpy
-matplotlib
 pillow
-scikit-learn
-seaborn
+flask
