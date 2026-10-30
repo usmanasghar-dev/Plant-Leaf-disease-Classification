@@ -22,7 +22,18 @@ This project uses a Custom Convolutional Neural Network (CNN) to classify plant 
 - `requirements.txt` - Required Python libraries.
 
 ## 🧠 Model Information
-A custom CNN model is trained to classify plant leaf images.
+📦 Trained Model Weights
+
+The trained CNN model is available for public download.
+
+"Download Plant Disease Model ZIP" (https://drive.google.com/file/d/1PVYSQ2ebVoYGqb26Aic1-birk9JD50gI/view?usp=drive_link)
+
+Model Details:
+
+- Architecture: Custom CNN
+- Input Size: 128 × 128 × 3
+- Classes: 3
+- Framework: TensorFlow / Keras
 
 ## 📦 Trained Model Weights
 [Download Plant Disease Model ZIP](https://drive.google.com/file/d/1PVYSQ2ebVoYGqb26Aic1-birk9JD50gI/view?usp=drivesdk)
