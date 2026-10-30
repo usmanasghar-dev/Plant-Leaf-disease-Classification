@@ -2,3 +2,5 @@ tensorflow
 numpy
 pillow
 flask
+requests
+gunicorn
