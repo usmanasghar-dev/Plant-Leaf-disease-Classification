@@ -1,9 +1,11 @@
 # Plant-Leaf-disease-Classification
 plant leaf disease classification using custom CNN
-## Project Notebook
+## Trained Model Weights
 
-[Open Google Colab Notebook](https://drive.google.com/file/d/1PVYSQ2ebVoYGqb26Aic1-birk9JD50gI/view?usp=drive_link)
+[Download Plant Disease Model ZIP](https://drive.google.com/file/d/1PVYSQ2ebVoYGqb26Aic1-birk9JD50gI/view?usp=drive_link)
 
-## Project Model
+## Model Files
 
-Plant Leaf Disease Classification
+- plant_disease_model.keras
+- model.weights.h5
+- class_names.json
