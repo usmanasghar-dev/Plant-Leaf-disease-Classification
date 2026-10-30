@@ -27,13 +27,28 @@ This project uses a Custom Convolutional Neural Network (CNN) to classify plant 
 The trained CNN model is available for public download.
 
 "Download Plant Disease Model ZIP" (https://drive.google.com/file/d/1PVYSQ2ebVoYGqb26Aic1-birk9JD50gI/view?usp=drive_link)
+## 📦 Trained CNN Model Files
 
-Model Details:
+The trained model files and class labels are hosted on Google Drive for public access.
 
-- Architecture: Custom CNN
-- Input Size: 128 × 128 × 3
-- Classes: 3
-- Framework: TensorFlow / Keras
+### Download Model Files
+
+1. **Class Labels:** [Download class_name.json](https://drive.google.com/file/d/1f-BOjvKX4rW_9C4roRCigNT8XAOwA5Kf/view?usp=drive_link)
+
+2. **CNN Model Weights:** [Download model.weight.h5](https://drive.google.com/file/d/1iiTlqB8PG4aUjoTFbmheKYWifSkBefHJ/view?usp=drive_link)
+
+3. **Complete Trained Model:** [Download plant_disease_model.keras](https://drive.google.com/file/d/1YAnbSGpMg2Zf2BvT5H6slYAOfaYQFouT/view?usp=drive_link)
+
+### Model Information
+
+* Architecture: Custom CNN
+* Framework: TensorFlow / Keras
+* Input Image Size: 128 × 128 × 3
+* Classes: 3
+
+All model files are hosted on Google Drive with public Viewer access.
+
+
 
 ## 📦 Trained Model Weights
 [Download Plant Disease Model ZIP](https://drive.google.com/file/d/1PVYSQ2ebVoYGqb26Aic1-birk9JD50gI/view?usp=drivesdk)
