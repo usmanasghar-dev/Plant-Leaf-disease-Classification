@@ -1,6 +1,5 @@
-tensorflow
-numpy
-pillow
-flask
-requests
-gunicorn
+streamlit
+tensorflow-cpu==2.19.0
+numpy<2.2
+Pillow
+gdown
